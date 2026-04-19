@@ -106,7 +106,7 @@ export const MobileNav = () => {
                                     transition={{ delay: 0.36, duration: 0.3 }}
                                     className="w-full px-6 py-3 rounded-xl font-display font-medium signature-gradient text-white shadow-ambient hover:opacity-90 transition-opacity"
                                     onClick={() => {
-                                            window.open("https://wa.me/+237683034005", "_blank")
+                                            window.open("https://wa.me/237683034005", "_blank")
                                         setOpen(false)
                                     }}
                                 >
