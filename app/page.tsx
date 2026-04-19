@@ -7,7 +7,7 @@ import {Tooth3D} from "../components/Tooth3D"
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import SplitType from 'split-type';
-import {MobileNav} from "@/components/MobileNav.tsx";
+import {MobileNav} from "../components/MobileNav.tsx";
 import SkyDentalLoading from "../components/Loader.tsx"
 
 gsap.registerPlugin(ScrollTrigger);
