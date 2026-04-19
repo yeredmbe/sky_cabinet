@@ -192,7 +192,7 @@ const Hero = () => {
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center lg:justify-start w-full max-w-xs sm:max-w-none mx-auto lg:mx-0">
                         <Button variant="primary" className="w-full sm:w-auto" onClick={()=>{
-                            window.open("https://wa.me/+237683034005", "_blank")
+                            window.open("https://wa.me/237683034005", "_blank")
                         }}>Schedule a Visit</Button>
                         <Button variant="secondary" className="w-full sm:w-auto">Explore Services</Button>
                     </div>
@@ -251,7 +251,7 @@ const TipsSection = () => {
                             referrerPolicy="no-referrer"
                         />
                         <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-primary/80 to-transparent text-white">
-                            <p className="font-display text-xl font-medium">Dr. Elena Rostova</p>
+                            <p className="font-display text-xl font-medium">Dr. Mbe Sandra</p>
                             <p className="text-white/70 text-sm">Lead Aesthetic Dentist</p>
                         </div>
                     </div>
